@@ -57,9 +57,9 @@ export type Network =
 	/** The biases of the network. */
 	biases: Vector[];
 	/** The activation methods of the network. */
-	activations?: ("linear"|"sigmoid"|"softmax"|"tanh"|"relu")[];
+	activations?: Activator[];
 	/** The loss function of the network. */
-	loss: "mse"|"crossEntropy";
+	loss: Loss;
 	/** The Adam state of the network. */
 	adam?: AdamState;
 }
