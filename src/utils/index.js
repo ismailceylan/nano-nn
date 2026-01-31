@@ -1,0 +1,14 @@
+export { default as range } from "./range";
+export { default as idxMax } from "./idxMax";
+export { default as heWeight } from "./he-weight";
+export { default as subVectors } from "./sub-vectors";
+export { default as addVectors } from "./add-vectors";
+export { default as randomBias } from "./random-bias";
+export { default as scaleVector } from "./scale-vector";
+export { default as xavierWeight } from "./xavier-weight";
+export { default as createVector } from "./create-vector";
+export { default as createMatrix } from "./create-matrix";
+export { default as randomWeight } from "./random-weight";
+export { default as randomBetween } from "./random-between";
+export { default as multiplyVectors } from "./multiply-vectors";
+export { default as multiplyMatrixWithVector } from "./multiply-matrix-with-vector";

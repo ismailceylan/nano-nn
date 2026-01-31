@@ -1,0 +1,28 @@
+{
+  "name": "nano-nn",
+  "version": "1.0.0",
+  "description": "A tiny neural network implementation with javascript.",
+  "keywords": [
+    "ai",
+    "neural",
+    "network",
+    "artificial",
+    "nn"
+  ],
+  "homepage": "https://github.com/ismailceylan/nano-nn#readme",
+  "bugs": {
+    "url": "https://github.com/ismailceylan/nano-nn/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismailceylan/nano-nn.git"
+  },
+  "license": "MIT",
+  "author": "Ismail Ceylan",
+  "type": "module",
+  "types": "index.ts",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
